@@ -7,7 +7,7 @@ from PyQt5.QtWidgets import (        # Import PyQt5 GUI components
 from PyQt5.QtCore import Qt         # Provides alignment constants and other core features
 
 # Your OpenWeatherMap API key (used to authenticate API requests)
-API_KEY = "749d4afd316de7f04d7c7b1699a4fdc5"
+API_KEY = "your_actual_api_key_here"
 
 # Main application class
 class WeatherApp(QWidget):
