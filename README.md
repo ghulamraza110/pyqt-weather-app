@@ -1,6 +1,5 @@
 ## 📄 `README.md`
 
-```markdown
 # 🌦 PyQt Weather App
 
 A sleek desktop weather application built with PyQt5 and OpenWeatherMap API. Displays current temperature, weather emoji, and description based on user input.
@@ -92,7 +91,6 @@ pyqt-weather-app/
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to improve.
 
----
 
 ## 📄 License
 
